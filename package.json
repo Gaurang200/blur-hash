@@ -1,0 +1,17 @@
+{
+  "name": "blur-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gaurang Tadhani",
+  "license": "ISC",
+  "dependencies": {
+    "blurhash": "^2.0.5",
+    "get-pixels": "^3.3.3",
+    "sharp": "^0.33.4"
+  }
+}
